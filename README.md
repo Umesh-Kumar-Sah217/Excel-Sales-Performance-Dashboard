@@ -1,5 +1,3 @@
-# Excel-Sales-Performance-Dashboard
-Interactive Excel dashboard for city-wise sales analysis, sales executive performance, and target achievement visualization.
 # Excel Sales Performance Dashboard
 
 An interactive Microsoft Excel dashboard for analyzing sales performance across multiple cities and sales executives.
@@ -20,7 +18,7 @@ An interactive Microsoft Excel dashboard for analyzing sales performance across 
 
 ## Download the Dashboard
 
-Download and open [Sales_Performane.xlsm](Sales_Performane.xlsm) in Microsoft Excel. Enable workbook content if prompted to activate the interactive features.
+Download and open [Sales-Performance.xlsm](Sales-Performance.xlsm) in Microsoft Excel. Enable workbook content if prompted to activate the interactive features.
 
 ## Project Overview
 
